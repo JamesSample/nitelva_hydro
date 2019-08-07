@@ -1,0 +1,15 @@
+Notes on data
+
+2-461_Fossen.csv                Series from Nitelva. Includes effects of upstream dams
+
+2-601_Slemdalsbekken1.csv       Small catchment to E. No obvious hydro, but low quality data due to unstable channel profile (see Hydra-II)
+
+6-71_Sinnerdammen.csv           Small catchment to W. Quite close to Nitelva. No lakes
+
+8-6_Saeternbekken.csv           Medium catchment to SW. Low quality data since 2006 (see Hydra-II)
+
+12-188_Langtjern.csv            Good quality, tiny catchment to NW. Too far away?
+
+2-590_Vikka.csv                 Small tribuatry of Leira to E. Includes Gardermoen airport, so probably no good? Low quality according to Hydra-II
+
+2-616_Kuggerud.csv              Medium-sized natural catchment, but quite a long way to the E
